@@ -16,4 +16,4 @@ def greet_user(name):
     else:
         period = "evening"
         
-    return f"Good {period}, {name}! Welcome to 
+    return f"Good {period}, {name}! Welcome to "
